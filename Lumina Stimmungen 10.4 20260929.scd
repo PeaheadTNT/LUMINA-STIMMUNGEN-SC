@@ -1,5 +1,5 @@
 /*
-LUMINA X — Tuning editor with custom tunings, stability update 2026-09-29
+LUMINA 10.4 — Tuning editor with custom tunings, stability update 2026-09-29
 Target: SuperCollider 3.13/3.14, standard installation with Qt GUI.
 
 START: Select this entire file (Ctrl+A), then evaluate it (Ctrl+Enter / Cmd+Enter).
